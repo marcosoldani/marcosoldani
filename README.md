@@ -5,7 +5,7 @@ I enjoy facing new challenges and turning ideas into working projects that make 
 
 
 ### About Me
-- 🎓 Bachelor in Computer Engineering at SUPSI in Lugano, Switzerland
+- 🎓 Bachelor in Computer Science at SUPSI in Lugano, Switzerland
 - 💻 Interest in Software Engineering, AI & Machine Learning
 - 🔧 I enjoy understanding how things work under the hood
 - 🚀 Interested in entrepreneurship and turning technical ideas into real products
@@ -19,5 +19,3 @@ I'm interested in projects where **software and AI meet real-world problems**, w
 <p align="center">
   <i>"Learn, build, experiment, and turn ideas into something real."</i>
 </p>
-
-I'm interested in projects where software and AI meet real-world problems, with the goal of creating useful and innovative solutions.
